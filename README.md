@@ -60,6 +60,19 @@ The goal of this project is to build a machine learning system that predicts ins
 
 ---
 
+## 📸 Dashboard Snapshots
+
+Here are some visual examples from our Power BI dashboard:
+
+<!-- Add image links below (GitHub will render them) -->
+![Dashboard Overview](./Dashboard/Evidence_Screenshots/01.png)
+![Dashboard Overview](./Dashboard/Evidence_Screenshots/02.png)
+![Dashboard Overview](./Dashboard/Evidence_Screenshots/03.png)
+
+---
+
+---
+
 ## 🔍 Key Results
 
 - Focused on recall for minority class (NILL agents) to better serve business goals.
